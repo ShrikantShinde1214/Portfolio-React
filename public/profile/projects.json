@@ -1,0 +1,38 @@
+{
+  "projects": [
+    {
+      "title": "Vyom Mobile Application",
+      "bodyText": "Developed a mobile application backend using Java, Spring Boot, and RESTful Web Services to support core functionalities. Integrated Hibernate with MySQL and PostgreSQL for efficient data persistence. Implemented Microservices architecture for modular and scalable application design. Deployed the application on Apache Tomcat and used Eclipse/STS for development and debugging. Ensured secure API communication with proper authentication and authorization.",
+      "tags": [
+        "Java",
+        "JSP",
+        "Hibernate",
+        "Spring Boot",
+        "Spring RESTful Web Services",
+        "Microservices",
+        "MySQL",
+        "PostgreSQL",
+        "Eclipse",
+        "STS",
+        "Apache Tomcat"
+      ]
+    },
+    {
+      "title": "Employee Assessment System",
+      "bodyText": "Designed and developed an Employee Assessment System using Java, Spring Boot, and Microservices to streamline employee evaluation processes. Built REST APIs for managing employee performance records, assessments, and reporting. Implemented Hibernate ORM for seamless interaction with MySQL/PostgreSQL databases. Integrated authentication and role-based access control using Spring Security. Deployed and tested the application on Apache Tomcat, ensuring high performance and scalability.",
+      "tags": [
+        "Java",
+        "JSP",
+        "Hibernate",
+        "Spring Boot",
+        "Spring RESTful Web Services",
+        "Microservices",
+        "MySQL",
+        "PostgreSQL",
+        "Eclipse",
+        "STS",
+        "Apache Tomcat"
+      ]
+    }
+  ]
+}

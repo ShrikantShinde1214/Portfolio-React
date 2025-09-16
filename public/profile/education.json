@@ -1,0 +1,22 @@
+{
+  "education": [
+    {
+      "dateText": "2021",
+      "cardtitle": "Bachelor of Computer Application",
+      "cardsubtitle": "Savitribai phule pune university",
+      "Imgsrc": "https://img.icons8.com/ios-filled/100/000000/education.png"
+    },
+    {
+      "dateText": "2017",
+      "cardtitle": "HSC",
+      "cardsubtitle": "Swami Muktanand Jr Collage Yeola",
+      "Imgsrc": "https://img.icons8.com/ios-filled/100/000000/education.png"
+    },
+    {
+      "dateText": "2015",
+      "cardtitle": "SSC",
+      "cardsubtitle": "New English School Bharam MSBTE",
+      "Imgsrc": "https://img.icons8.com/ios-filled/100/000000/education.png"
+    }
+  ]
+}

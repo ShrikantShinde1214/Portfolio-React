@@ -1,0 +1,60 @@
+
+  {
+    "skills": [
+      {
+        "title": "Programming Languages",
+        "tags": [
+          "Core Java",
+          "Java8"
+        ]
+      },
+      {
+        "title": "Web Technologies",
+        "tags": [
+          "HTML5",
+          "CSS3",
+          "Swagger UI"
+        ]
+      },
+      {
+        "title": "Server Side / Back End",
+        "tags": [
+          "Spring Boot",
+          "Spring MVC",
+          "Hibernate",
+          "JDBC"
+        ]
+      },
+      
+      {
+        "title": "Software/Tools",
+        "tags": [
+          "STS",
+          "GIT",
+          "VS code",
+          "Eclipse",
+          "J2EE",
+          "Bitbucket",
+          "IntelliJ"
+        ]
+      },
+      {
+        "title": "Databases",
+        "tags": [
+          "Postgress SQL",
+          "MySQL",
+          "SQL Server",
+          "Oracle",
+          "NoSQL"
+        ]
+      },
+      {
+        "title": "AWS Services",
+        "tags": [
+         "Openshift",
+          "AutoScalling"
+        ]
+      }
+    ]
+    }
+

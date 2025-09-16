@@ -1,0 +1,43 @@
+{
+  "experiences": [
+    {
+      "cardtitle": "Software Engineer",
+      "cardsubtitle": "Alchemy Techsol India Private Limited",
+      "subtitle": "Java Back-End Developer",
+      "workDescription": [
+        "Designed and developed RESTful APIs using Java, Spring Boot, and Microservices architecture to support scalable enterprise applications.",
+        "Implemented database operations using Hibernate/JPA with MySQL and optimized SQL queries for high performance.",
+        "Integrated third-party APIs and external services into backend systems, ensuring seamless data exchange.",
+        "Collaborated with front-end teams to design and consume REST APIs, enabling smooth end-to-end functionality.",
+        "Implemented exception handling, logging, and security best practices using Spring Security.",
+        "Worked in Agile/Scrum environments, participating in daily stand-ups, sprint planning, and code reviews."
+      ]
+    },
+    {
+      "cardtitle": "Software Engineer",
+      "cardsubtitle": "Remiges Technology Private Limited",
+      "subtitle": "Java Back-End Developer",
+      "workDescription": [
+        "Developed Microservices using Spring Boot for modular and maintainable application architecture.",
+        "Implemented business logic, data validation, and service layers to meet client requirements.",
+        "Worked on integration of REST APIs with front-end applications and third-party services.",
+        "Optimized backend performance through caching strategies, query tuning, and load balancing.",
+        "Maintained Git repositories, managed branching strategies, and performed peer code reviews.",
+        "Contributed to deployment activities on application servers and collaborated with DevOps teams for CI/CD pipelines."
+      ]
+    },
+    {
+      "cardtitle": "Software Engineer",
+      "cardsubtitle": "Webosys Technology",
+      "subtitle": "Java Back-End Developer",
+      "workDescription": [
+        "Built and maintained backend services using Java, Spring Boot, and REST APIs.",
+        "Developed reusable modules and utility classes to improve development efficiency.",
+        "Handled database design, schema creation, and query optimization in MySQL/Oracle.",
+        "Implemented authentication and authorization mechanisms using Spring Security and JWT.",
+        "Debugged and resolved production issues, ensuring minimal downtime and reliable application performance.",
+        "Collaborated with QA teams to write and execute unit and integration tests using JUnit and Mockito."
+      ]
+    }
+  ]
+}
