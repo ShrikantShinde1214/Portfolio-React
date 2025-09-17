@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin,faWhatsapp} from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import { useTheme } from '../theme/ThemeContext.jsx'; // Adjusted import path
 import { Fade } from "react-awesome-reveal";
@@ -60,7 +60,7 @@ const Contact = (props) => {
                      <Fade direction="up" duration={3000} delay={500} cascade damping={1e3}>
                         <a
                             className="contact-link"
-                            href="https://www.linkedin.com/ishwar-somase-9079b12a2/"
+                            href="https://www.linkedin.com/in/ishwar-somase-9079b12a2/"
                             target="_blank"
                             rel="noreferrer"
                         >
@@ -79,6 +79,19 @@ const Contact = (props) => {
                                 style={{ color: theme.socialIconBgColor }} />
                         </a>
                      </Fade>
+                         <Fade direction="up" duration={3000} delay={1000}cascade damping={1e3}>
+                        <a
+    className="contact-link"
+    href="https://wa.me/919876543210" // Replace with your number
+    target="_blank"
+    rel="noreferrer"
+  >
+    <FontAwesomeIcon
+      icon={faWhatsapp}
+      style={{ color: theme.socialIconBgColor }}
+    />
+  </a>
+</Fade>
                     </div>
                 </div>
             </div>
