@@ -82,7 +82,7 @@ const Contact = (props) => {
                          <Fade direction="up" duration={3000} delay={1000}cascade damping={1e3}>
                         <a
     className="contact-link"
-    href="https://wa.me/917756970854" // Replace with your number
+    href="https://wa.me/917756970854"
     target="_blank"
     rel="noreferrer"
   >
