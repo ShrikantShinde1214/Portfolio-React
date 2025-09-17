@@ -8,7 +8,7 @@ const Footer = () => {
         bottom: '0',
         width: '100%',
         background: "linear-gradient(45deg, rgb(245, 239, 249), rgb(207, 211, 236)"}}>
-          <p>Designed &amp; Developed by FG Infotech • © 2025 All Rights Reserved.</p>
+          <p>Designed &amp; Developed by Ishwar Somase • © 2025 All Rights Reserved.</p>
         </footer>
     );
 };
